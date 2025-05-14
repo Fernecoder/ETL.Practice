@@ -1,1 +1,3 @@
 In this opportunity, I'll be practicing ETL with the PokeAPI. This API is very intuitive for any use and it's great for small projects.
+
+This v1 project extracts the information from pokemons and their details, transform them and load them into a CSV file.
